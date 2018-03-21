@@ -1,3 +1,3 @@
 # WI3
 Uni
-Die ist unser repo für das 
+Dies ist unsere repo für das Projekt. 
